@@ -7,4 +7,3 @@
 
 
 > [Link to documentation](https://docs.microsoft.com/en-us/power-bi/desktop-report-themes#structure-of-a-report-theme-json-file)
-> 
