@@ -1,0 +1,26 @@
+{
+  "name": "JM_New_SDX_Theme",
+  "dataColors": ["#2a295c", "#d3d0c9", "#283898", "#666666", "#ff0000", "#8282dc", "#3cdcc8", "#d2dc28", "#e1c8b4", "#ff9673", "#cc1480"],
+  "background":"#d3d0c9",
+  "foreground": "#2a295c",
+  "tableAccent": "#666666",
+  "visualStyles":{
+    "pieChart":{
+      "JMStyle":{
+        "legend":[{
+          "show":true,
+          "position":"Right",
+          "showTitle":true,
+          "titleText":"Legend",
+          "labelColor":{"solid":{"color":"#2a295c"}},
+          "fontFamily":"Arial",
+          "fontSize":14
+        }],
+        "general":[{
+          "responsive":true
+        }]
+      }
+    },
+    "_Add Next VisualStyle_"
+  }
+}
