@@ -21,6 +21,49 @@
         }]
       }
     },
+    "slicer":{
+      "JMStyle":{
+        "background": [{
+          "show": true,
+          "color": {
+            "solid": {
+              "color": "#2a295c"
+            }
+          },
+          "transparency": 0
+        }],
+        "general": [{
+					"outlineColor": { "solid": { "color": "#2a295c"}},
+					"outlineWeight": 1,
+					"orientation": "vertical",
+					"responsive": true
+				}],
+				"data": [{
+					"mode": "Basic",
+					"relativeRange": "",
+					"relativePeriod": ""
+				}],
+				"selection": [{
+					"selectAllCheckboxEnabled": false,
+					"singleSelect": true
+				}],
+				"header": [{
+					"show": true,
+					"fontColor": { "solid": { "color": "#000000"}},
+					"background": { "solid": { "color": ""}},
+					"outline": "None",
+					"textSize": 14,
+					"fontFamily": "Arial"
+				}],
+				"items": [{
+					"fontColor": { "solid": { "color": "#000000"}},
+					"background": { "solid": { "color": "#2a295c"}},
+					"outline": "None",
+					"textSize": 14,
+					"fontFamily": "Arial"
+				}]
+      }
+    },
     "_Add Next VisualStyle_"
   }
 }
